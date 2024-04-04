@@ -1,7 +1,7 @@
 const Photo=()=>{
     return(
         <>
-        <h3>Photo</h3>
+        <h3>😊😁😃</h3>
         </>
     )
 }
